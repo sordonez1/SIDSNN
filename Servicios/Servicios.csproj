@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{14DD566C-C016-4946-A8A4-F0685AB1BC19}</ProjectGuid>
+    <ProjectGuid>{6EC43E4F-BFEB-4E8A-9384-90651F90418D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Entidades</RootNamespace>
-    <AssemblyName>Entidades</AssemblyName>
+    <RootNamespace>Servicios</RootNamespace>
+    <AssemblyName>Servicios</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
